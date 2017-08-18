@@ -5,6 +5,10 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
+# Customizable IGNORED folder and its meta file for potentially problematic large assets
+/Assets/IGNORED/
+/Assets/IGNORED.meta
+
 # Visual Studio 2015 cache directory
 /.vs/
 
